@@ -2,7 +2,7 @@
 # Makefile Options
 # ----------------------------
 
-NAME = FAMICALC
+NAME = YoshiNes
 ICON = icon.png
 DESCRIPTION = "NES Emulator for TI84+CE"
 COMPRESSED = YES
